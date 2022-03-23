@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=준일%20Codegram&fontSize=90)
 
 
 - 👋 Hi, I’m @junil1
@@ -6,7 +7,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=준일%20Codegram&fontSize=90)
 
 <!---
 junil1/junil1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
