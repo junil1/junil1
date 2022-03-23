@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=준일%20Codegram&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=도전하는%20개발자&fontSize=70)
 
 - Name : 김준일
 - Birth : 1997.01.29
